@@ -30,6 +30,13 @@ The code provided in this repository is written in Python using OpenCV and NumPy
 - Calculating geometric distortion for each matched insert centroid
 - Visualizing results
 
+  
+## License
+
+This project is licensed under the MIT License.
+
+
+
 ## Usage
 
 To use the code, simply clone or download this repository and run the provided Python script. Ensure you have the necessary dependencies installed, including OpenCV, NumPy, and matplotlib.
@@ -37,3 +44,8 @@ To use the code, simply clone or download this repository and run the provided P
 ```bash
 git clone https://github.com/BernardoCampilho/MRI_Distortion.git
 cd MRI_Distortion
+
+
+
+
+
