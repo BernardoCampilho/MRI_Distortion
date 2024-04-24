@@ -35,6 +35,6 @@ The code provided in this repository is written in Python using OpenCV and NumPy
 To use the code, simply clone or download this repository and run the provided Python script. Ensure you have the necessary dependencies installed, including OpenCV, NumPy, and matplotlib.
 
 ```bash
-git clone https://github.com/BernardoCampilho/MSc_Thesis_MRI_Distortion.git
-cd MSc_Thesis_MRI_Distortion
+git clone https://github.com/BernardoCampilho/MRI_Distortion.git
+cd MRI_Distortion
 python geometric_distortion_calculation.py
