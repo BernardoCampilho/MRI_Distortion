@@ -4,7 +4,7 @@ The developed algorithm aims to automatically calculate geometric distortions in
 
 ## Overview
 
-The algorithm's development process is detailed in this repository. To enable future studies to utilize the developed algorithm, it has been made publicly available [here](https://github.com/BernardoCampilho/MSc_Thesis_MRI_Distortion).
+The algorithm's development process is detailed in this repository. To enable future studies to utilize the developed algorithm, it has been made publicly available here.
 
 The code's overall structure can be divided into three main parts:
 
@@ -33,7 +33,7 @@ The code provided in this repository is written in Python using OpenCV and NumPy
   
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
 
 
