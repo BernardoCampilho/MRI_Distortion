@@ -37,4 +37,3 @@ To use the code, simply clone or download this repository and run the provided P
 ```bash
 git clone https://github.com/BernardoCampilho/MRI_Distortion.git
 cd MRI_Distortion
-python geometric_distortion_calculation.py
